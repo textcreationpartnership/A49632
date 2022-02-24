@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last dying speeches, confession and execution of John Stokes,  Isaac Davis, and Mary Williamson, who were executed at Tyburn, the 5th of March, 1684 for fellonies and burglaries together with the manner of their behaviour in New-Gate, after their condemnation : as also the last dying speech and confession of Alice Paddison, who was burnt at Tyburn for high-treason, on the 5th of the same instant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49632</idno>
+            <idno type="STC">Wing L482B</idno>
+            <idno type="STC">ESTC R41452</idno>
+            <idno type="EEBO-CITATION">31355376</idno>
+            <idno type="OCLC">ocm 31355376</idno>
+            <idno type="VID">110429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110429)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last dying speeches, confession and execution of John Stokes,  Isaac Davis, and Mary Williamson, who were executed at Tyburn, the 5th of March, 1684 for fellonies and burglaries together with the manner of their behaviour in New-Gate, after their condemnation : as also the last dying speech and confession of Alice Paddison, who was burnt at Tyburn for high-treason, on the 5th of the same instant.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Curtis ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:110429:1" rendition="simple:additions"/>
+            <head>THE <hi>Laſt Dying Speeches,</hi> CONFESSION, AND EXECUTION OF <hi>John Stokes, Iſaac Davis,</hi> and <hi>Mary Williamſon,</hi> who were Executed at <hi>TYBURN,</hi> the 5th. of <hi>March,</hi> 1684.</head>
+            <head type="sub">For FELLONIES and BURGLARIES, toge<g ref="char:EOLhyphen"/>ther with the manner of their Behaviour in <hi>New-Gate,</hi> after their Condemnation; As alſo the Laſt Dying Speech and Confeſſion of <hi>Alice Paddiſon,</hi> who was Burnt at <hi>Tyburn</hi> for High-Treaſon, on the 5th. of the ſame Inſtant.</head>
+            <p>
+               <hi>Enter'd according to Order.</hi>
+            </p>
+            <p>TIS too apparent that the many Severe Examples of Juſtice, cannot deter Depraved and Infatuated People from ruſhing without any further conſideration, upon their own Ruin; no, not the earneſt Deſires and Intreaty of thoſe that have juſtly Suffered, and ought to ſtand as a Sea-Mark, to pre<g ref="char:EOLhyphen"/>vent the Ship-wrack, and Inevitable Ruin of their Aſſociates; but to be brief: The laſt Seſſions, there being Twelve Perſons Sentanced to Dye at the Seſſions-Houſe in the <hi>Old-Baily,</hi> on the 28th. of <hi>February</hi> laſt, viz. <hi>Thomas Rolph, Robert Barbados, Gerard Middleton, Jane Conyers, Alice Cranfield, Joan Nicols, Mary Deſoe, Edward Conyers, John Stokes, Iſaac Davis, Mary Williamſon,</hi> and <hi>Alice Paddiſon;</hi> of which Number, the former Eight found the Mercy of a Reprieve, and the latter Four Ex<g ref="char:EOLhyphen"/>ecuted, their Crimes for which they ſuffered their department in <hi>New-Gate,</hi> after Sentance, and their laſt Dying Speeches and Confeſſions, be<g ref="char:EOLhyphen"/>ing as followeth.</p>
+            <p>
+               <hi>Edward Conyers,</hi> Being Tryed upon an Indictment of High-Treaſon, Pleading thereto not Guilty, the Evidence againſt him, was that his Daugh<g ref="char:EOLhyphen"/>ter coming to a Bake-Houſe for Bread, with two newly Clipped Shillings, and being there Queſtioned where ſhe had them, after much ſtamering, Conſternation and Amazement, declared ſhe had them of her Mother, and Related that her Father was a Cliper, <hi>&amp;c.</hi> whereupon a Warrant to Search being obtained, Shares, Files, Melting-Pots, Melted Silver, and many other Implements appertaining to that illegal Practice were found in the Priſoners Lodging; upon which, both he and his Wife, were found Guilty: but
+<pb n="2" facs="tcp:110429:2"/>ſhe being Reprieved as aforeſaid, when he being conveyed back to <hi>Newgate</hi> after Sentance of Death Received as in Caſe of High Treaſon, he became exceeding Penitent, Expreſſing abundance of Sorrow, at his failing and often converſed with ſuch Pious and Charitable Miniſters as came to af<g ref="char:EOLhyphen"/>foard Spiritual Conſolation to him and his Condemned Fellows, that ſo they might not droop under the Terrors of Death, and give further, way to the Enemy of Mankind, (who always at ſuch times is moſt buſy) to bring in diſpair, he likewiſe was obſerved to Pray often moſt fervently for Life and Imortality in the World to come, eſpecially when he was acquaint<g ref="char:EOLhyphen"/>ed that his Offence had barred firm of all hopes of Pardon, and ſo he con<g ref="char:EOLhyphen"/>tinued to bewail his Deplorable Condition, and the near approach of his untimely Fate, till at laſt he, through the Interceſſion of his Friends and his Majeſties great Clemency, received a Reprieve.</p>
+            <p>
+               <hi>John Stokes,</hi> a Notorious Pick-Pocket, being at his Trade near <hi>Py-Corner,</hi> was apprehended for Picking the Pocket of one <hi>Elizabeth Roſs</hi> on the 11th. of <hi>February</hi> laſt, for which at the enſuing Seſſions being Indicted and Tryed, upon his Tryal, it appeared that he had Picked the Proſecutors Pocket of a Purſs, and in it 38 <abbr>
+                  <hi>s.</hi>
+               </abbr> with which upon his being diſcovered, he Run away, but was quickly overtaken with the Money about him, and that being in <hi>Newgate,</hi> he ſent ſome of his Accomplices to Compound the Fellony and Robbery, upon which proof he was found Guilty, and after Judgment of Death Received with his Fellow Offenders, reconvey'd to <hi>New<g ref="char:EOLhyphen"/>gate,</hi> to expect the Execution of the Sentance, where for a while (having as 'tis ſuppoſed ſome hopes of a Pardon or Reprieve with which Vanity thoſe miſerable Wretches too often flatter themſelves: even on the Brink of Eternity) he remained much unconcerned, ſeeming rather reſolutely ob<g ref="char:EOLhyphen"/>ſtenate, then ſenſible of his Condition, but having certain notice ſome days ſince that he muſt dye; for that his reitterated Offences, would not admit of Mercy, he became more ſerious; Deaths diſmal aſpect being to terrible to be outbraved, and often apply'd himſelf to good and ſober advice, being the Precedent Sabbath very attentive to the Sermon, which was for that purpoſe Preached, and ſo continued till he was brought to the Place of Execution. Where being in the Cart, and the Rope put about his Neck, he ſeemed, as it were, in an Obſtinate Mood, yet ſhewed ſome Remors for his Crimes, declaring to the Miniſter, That he had been a great Of<g ref="char:EOLhyphen"/>fender, and deſired him to tell the People as much; and that he deſired Heartily, that they would put up their Prayers to Almighty God for the Salvation of his Soul, and take warning by his Fall, owning the Fact for which he Suffered. But being deſired by the Miniſter to join in ſinging the Pſalm which his Fellow-Sufferers deſired might be Sung, <hi>viz.</hi> the 25th, begining at the Fifth Verſe, he refuſed it, and did not ſeem much con<g ref="char:EOLhyphen"/>cerned, yet attentively liſtned to the Prayers of the Two Miniſters, who ſupplied the place of Mr. <hi>Ordinary,</hi> and with a Chriſtian Zeal diſcharged that Charitable Duty to the utmoſt of their power, by Praying with, and Exhorting the Wretched Miſcreants to a Candid Confeſſion, and Hearty Repentance.</p>
+            <p>
+               <hi>Mary Williamſon,</hi> Alias <hi>Jones,</hi> Alias <hi>Smith;</hi> Being Tryed upon an In<g ref="char:EOLhyphen"/>dictment the laſt Seſſions, for Robbing <hi>Henry Powny,</hi> and it appear<g ref="char:EOLhyphen"/>ing upon Evidence that ſhe had Stolen a Silver-Salt, value 20 <abbr>l.</abbr> A Silver Plate of the ſame value, a Caudle-Cup of 45 <abbr>l.</abbr> value, a Tankard value 10 <abbr>l.</abbr> Silver Hamper, value 5 <abbr>l.</abbr> a Silver Chain, and divers other Pieces
+<pb n="3" facs="tcp:110429:2"/>of Plate of conſiderable value, beſides 44 <abbr>l.</abbr> in Mony; which ſhe did un<g ref="char:EOLhyphen"/>der the Colour of Hiring her ſelf in the Nature of a Servant to the Pro<g ref="char:EOLhyphen"/>ſecutor, with whom ſhe Lived, at his Houſe in St. <hi>Laurance Pountny, Lon<g ref="char:EOLhyphen"/>don;</hi> from <hi>Michaelmas</hi> laſt till the 26 of <hi>October,</hi> and effected the Rob<g ref="char:EOLhyphen"/>bery in the abſence of her Maſter and Miſtreſs, upon proof of which, ſhe received Judgment, and was reconveyed to <hi>New-Gate;</hi> having <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit Pleaded her Belly, but not proving with Child, when being in Retirement, ſhe much bewailed her miſerable condition, and ſaid ſhe was temp<g ref="char:EOLhyphen"/>ted to it, being very deſirous to Live, and earneſtly praying for Pardon, more temporal then otherwiſe, and ſo continued till the day of Execution; when with the reſt ſhe was conveyed to <hi>Tyburn,</hi> the common Place of Suffering. Where the Miniſters prayed with her, and intreated her for Chriſts ſake to Repent from the bottom of her heart of all her Sins, and confeſs her Crimes both to God and Man, that thereby (like the Thief upon the Croſs) ſhe might obtain Pardon and Remiſſion, to which ſhe gave great attention, with Hands and Eyes lifted up to Heaven, deſiring the great and Righteous Judg of all the Earth to have mercy upon her poor departing Soul, which ſhe commended into his Hands, then being asked by a Party that ſtood by the Cart, what was become of the Plate and Mony, ſhe ſaid what Plate, ſhe knew of no Plate, then it was told her her Miſtreſs would ſpeak to her, to which ſhe reply'd, if ſhe had any thing to ſay to her ſhe-muſt come to her, for ſhe well knew ſhe could not come to her, and then deſired God to forgive the Man that ſwore againſt her, ſaying, ſhe deſired to Die in Charity with all Men, and ſo continued to Pray, without making any publick Speech to the People, as alſo to Joyn in ſinging the Pſalm to the laſt, not own<g ref="char:EOLhyphen"/>ing that ſhe had either Plate or Mony.</p>
+            <p>
+               <hi>Iſaac Davis,</hi> formerly Living at <hi>Knights-Bridg,</hi> with one Mr. <hi>Marſhfield,</hi> being Tryed, for that he and two others his Accomplices, not taken, on the 30th. of <hi>December</hi> laſt, Broke into the Houſe of the ſaid <hi>Marſhfield,</hi> and thereby made ſuch a Noiſe that <hi>Marſhfield</hi> coming down to know what occaſioned it, was ſet upon, ſhot at, and wounded by the Burglars, and had been undoubtedly Murthered, had not his Son come to his Reſcue, upon which they fled, yet there was left a Hat behind, which was Sworn to be his, and it being farther proved by the Perſon aſſaſſinated, that he knew him by ſeveral Tokens, he was found Guilty of the Burglary, and putting the People in Corporal Fear of their Lives, and receiving Judg<g ref="char:EOLhyphen"/>ment with the reſt, was remanded to <hi>New-Gate,</hi> where he continued to be deeply ſenſible of his Proſleygate Life, and to be very attentive to thoſe that gave him Directions about his Eternal Welfare; ſaying bad Company had been the cauſe of his ſhame and Ruin, and if he might Live, he would amend; being often ſeen to Pray and Weep alowd, when this Morning he was conveyed to the Place of Execution, where being come, and deſired to unburthen his Conſcience, he declared in the Preſence of Almighty God, and before the People, that he was Innocent of what he dyed for, deſiring that God would ſhow ſome Imediate Judgment on him if he was Guilty, yet deſired of God to forgive his Proſecutors, and prayed one <hi>Harris</hi> (that ſpoke to him and asked him about Stealing of Poultry, and breaking open a Shop, which he likewiſe deneyed to have any hand in) that he would remember him to all his Friends in <hi>Knightsbridg,</hi> and tell them that he took it upon his Salvation, and wiſhed that he might never enter into the Kingdom of Heaven, nor Receive Mercy at the Hands of God if he had any Hand in the Fact for which he Suffered, proteſting with the
+<pb n="4" facs="tcp:110429:3" rendition="simple:additions"/>like Aſſeveration that he was in his own Houſe, at the time the Houſe was ſaid to be broken open, and that for the Hat, Charged to be his, he never ſaw it till he ſaw it in the Hands of his Proſecutor, &amp; that he never did any Crime in the like Nature, but geting Mony, he had ſpent it as freely, &amp; had been a great Drinker, been guilty of Sabath breaking, and many ſuch heinous Sins, for which he believed God ſuffered him to come to ſuch an untimely end, deſiring that his Innocence as to the Robbery might be made known, nor did he waver in his Aſſeveration, though often intro<g ref="char:EOLhyphen"/>gated by the Miniſters, and deſired not to dally with his Soul upon the Brink of Eternity, whereupon one of the Miniſters declared to the People what he ſaid, as alſo he himſelf did twice or thrice, and ſo with much Pe<g ref="char:EOLhyphen"/>nitence and Divotion, and again Prayed God to forgive his Proſecutors, ſaying he deſired to dye in Charity with all Men, and ſo Singing his part of the Pſalm, and Praying to God to recieve his Soul, he paſſed into Eternity.</p>
+            <p>
+               <hi>Alice Pattiſon,</hi> Alias <hi>Kirk,</hi> Being Apprehended for High-Treaſon, in Clipping the Lawful Currant Coin of this Kingdom, <hi>&amp;c.</hi> was the laſt Seſſions brought upon her Tryal, where it appeared againſt her upon Evi<g ref="char:EOLhyphen"/>dence, that ſhe had Clipped divers half Crowns of King <hi>Charles</hi> the Firſt, and divers other Pieces, and that ſhe had purchaſed ſeveral Gunies, at 1 <abbr>l.</abbr> 1 <abbr>s.</abbr> 8 <abbr>d.</abbr> with Clipped Money, and changed it for broad Mony, at 1 <abbr>l.</abbr> 1 <abbr>s.</abbr> 6 <abbr>d.</abbr> and that ſhe cut the value of 4 <abbr>d.</abbr> off each Half-Crown, and that ſhe had been ſeen Clipping, Filing, and Diminiſhing at divers times, the Principal Evidence againſt her, being one <hi>Mary Hern,</hi> in whoſe Houſe ſhe Lodged, and one that had been aſſiſting to her in the unlawful Trade: but what made it out more plain, was a Melting-Pot, Melted-Silver, and Clip<g ref="char:EOLhyphen"/>ped-Mony, that upon Search was found in her Poſſeſſion; upon which Evidence ſhe was found Guilty of High-Treaſon, and reconveyed to <hi>New-Gate,</hi> where during the Intervene, ſhe continued exceeding Penitent, be<g ref="char:EOLhyphen"/>wailing her ſad Misfortune, and the diſmal and untimely End ſhe had brought her ſelf to, by her unlawful Practice, being extraordinary Peni<g ref="char:EOLhyphen"/>tent, and much attentive to thoſe that gave her Ghoſtly Conſolation, con<g ref="char:EOLhyphen"/>tinuing in that manner with abundance of Tears flowing from her, till this Morning, at what time being drawn upon a Sledg to <hi>Tyburn,</hi> where a Stake being driven in with two holes in it, ſhe was brought thither before the other Priſoners, but upon further Order, her Burning was reſpited for a while, and ſhe put into the Cart amongſt the other Priſoners, where the Miniſters gave her Spiritual Comfort; deſiring her in this her great Extre<g ref="char:EOLhyphen"/>mity to lay hold on the Paſſion Death, and Merits of her Merciful Rede<g ref="char:EOLhyphen"/>mer, and that ſhe would unburthen her thoughts, to which ſhe anſwered, ſhe hoped for Salvation and Eternal Life, but that ſhe muſt needs own ſhe was unworthy of it, for that ſhe had been a great Sinner, and was, eſpe<g ref="char:EOLhyphen"/>cially Guilty of the Treaſon for which ſhe was to ſuffer; having uſed that wicked Profeſſion for the ſpace of a Year paſt, then ſhe deſired all good Chriſtians to Pray for her, and Sung her Part of the Pſalm divoutly, after which, the Cart drawing away, the three former were Hang'd, and ſhe reconveyed to the Stake, where ſhe again deſired the Prayers of all good People, confeſſing her Crime, and intreating the Executioner, who took a Crown out of her Pocket, to ſtrangle her before the Fire came at her, he ſet her upon a Block, and faſtened the Rope through the holes about her Neck; when after ſhe had Prayed a while, he ſtruck it away, and let her Hang whilſt he placed the Wood about her, which being Kindled, Conſu<g ref="char:EOLhyphen"/>med her to Aſhes.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> L. Curtis, <hi>near</hi> Fleet-bridge. 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
